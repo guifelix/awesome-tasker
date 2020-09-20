@@ -53,7 +53,7 @@ Tasker came 3rd in the Productivity category in the Android Developer Challenge 
 - [App](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) - From Play Store.
 
 ## Plugins
-### [Official Plugins](https://play.google.com/store/apps/details?id=com.joaomgcd.autoappshub) - (Paid | Free).
+### [Official Plugins](https://play.google.com/store/apps/details?id=com.joaomgcd.autoappshub) - (Paid | Free)
 - [AutoVoice](https://play.google.com/store/apps/details?id=com.joaomgcd.autovoice) - and the [pro key](https://play.google.com/store/apps/details?id=com.joaomgcd.autovoice.unlock)
 - [Tasker Settings](https://play.google.com/store/apps/details?id=com.joaomgcd.taskersettings)
 - [AutoInput](https://play.google.com/store/apps/details?id=com.joaomgcd.autoinput)
