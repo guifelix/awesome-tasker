@@ -13,7 +13,7 @@
 # Awesome Tasker [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 
-> Carefully curated list of awesome tasker projects, tutorials and tricks
+> Carefully curated list of awesome Tasker projects, tutorials and tricks
 
 Tasker is an application for Android which performs tasks (sets of actions) based on contexts (application, time, date, location, event, gesture) in user-defined profiles or in clickable or timer home screen widgets.
 This simple concept profoundly extends your control of your Android device and it's capabilities, without the need for 'root' or a special home screen.
