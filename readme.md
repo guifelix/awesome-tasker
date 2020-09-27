@@ -1,9 +1,9 @@
 <div align="center">
-	<img width="500" height="350" src="media/logo-tasker.svg" alt="Awesome">
+	<a href="https://tasker.joaoapps.com/">
+		<img width="500" height="350" src="media/logo-tasker.svg" alt="Awesome">
+	</a>
 </div>
 
-![stability-wip](https://img.shields.io/badge/STATUS-WORK%20IN%20PROGRESS-lightgrey.svg?style=for-the-badge)
-![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg?style=for-the-badge)
 ![](https://img.shields.io/github/last-commit/guifelix/awesome-tasker.svg?style=for-the-badge)
 ![](https://img.shields.io/github/issues-raw/guifelix/awesome-tasker.svg?style=for-the-badge)
 ![](https://img.shields.io/github/issues-closed-raw/guifelix/awesome-tasker.svg?style=for-the-badge)
