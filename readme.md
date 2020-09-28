@@ -95,4 +95,4 @@ Also share text from Tasker to any other app that supports text sharing.
 - [ClockTask](https://play.google.com/store/apps/details?id=com.balda.clocktask) - Interact with Android™ clock app.
 - [BlueTask](https://play.google.com/store/apps/details?id=com.balda.bluetask) - Allows audio routing using bluetooth headset.
 - [GeoTask](https://play.google.com/store/apps/details?id=com.balda.geotask) - Create geographic areas to be monitored.
-- [Auto Speed Trap](https://play.google.com/store/apps/details?id=com.balda.autospeedtrap) - Automate the start and stop of Speed Trap.
+- [Auto Speed Trap](https://play.google.com/store/apps/details?id=com.balda.autospeedtrap) - Automate the start and stop of [Speed Trap](https://play.google.com/store/apps/details?id=com.balda.speedtrappro&hl=en_CA).
