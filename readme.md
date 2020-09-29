@@ -35,6 +35,7 @@ Tasker came 3rd in the Productivity category in the Android Developer Challenge 
 ## Contents
 - [Official](#official)
 - [Plugins](#plugins)
+- [Community](#community)
 
 
 
@@ -96,3 +97,22 @@ Also share text from Tasker to any other app that supports text sharing.
 - [BlueTask](https://play.google.com/store/apps/details?id=com.balda.bluetask) - Allows audio routing using bluetooth headset.
 - [GeoTask](https://play.google.com/store/apps/details?id=com.balda.geotask) - Create geographic areas to be monitored.
 - [Auto Speed Trap](https://play.google.com/store/apps/details?id=com.balda.autospeedtrap) - Automate the start and stop of [Speed Trap](https://play.google.com/store/apps/details?id=com.balda.speedtrappro&hl=en_CA).
+
+## Community
+- [Reddit](https://www.reddit.com/r/tasker/)
+	- [TaskerFiles](https://www.reddit.com/r/TaskerFiles/)
+	- [taskernet](https://www.reddit.com/r/taskernet/)
+	- [TaskerIdeas](https://www.reddit.com/r/TaskerIdeas/)
+- [StackOverflow](https://stackoverflow.com/questions/tagged/tasker)
+- Telegram
+	- [TaskerSuperBrasil](https://t.me/TaskerSuperBrasil) group (Brazilian Portuguese)
+	- [TaskerSuperBrasilCanal](https://t.me/TaskerSuperBrasilCanal) channel (Brazilian Portuguese)
+	- [Tasker Profile Center](https://t.me/tasker_tpc_channel) channel
+	- [Tasker中文交流群组](https://t.me/cntasker) group (Chinese)
+- Facebook
+	- [TaskerSuperBrasil](https://www.facebook.com/TaskerSuperBrasil) page (Brazilian Portuguese)
+	- [TaskerSuperBrasil](https://www.facebook.com/groups/TaskerSuperBrasil) group (Brazilian Portuguese)
+	- [Android Tasker Community](https://www.facebook.com/groups/taskercommunity/) group
+	- [Tasker App Brasil](https://www.facebook.com/groups/339632912856580/) group (Brazilian Portuguese)
+- Blogs
+	- [Tasker Profile Center](https://taskerprofilecenter.blogspot.com/)
