@@ -35,6 +35,9 @@ Tasker came 3rd in the Productivity category in the Android Developer Challenge 
 ## Contents
 - [Official](#official)
 - [Plugins](#plugins)
+- [Books](#books)
+- [Videos](#videos)
+- [Blogs](#blogs)
 - [Community](#community)
 
 
@@ -48,6 +51,7 @@ Tasker came 3rd in the Productivity category in the Android Developer Challenge 
 - [FAQ](https://tasker.joaoapps.com/faq.html) - Official FAQ.
 - [App](https://tasker.joaoapps.com/download.html) - From website.
 - [App](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) - From Google Play™ store.
+- [Videos](https://www.youtube.com/user/joaomgcd) - Videos from Joao 
 
 ## Plugins
 ### [Official Plugins](https://play.google.com/store/apps/details?id=com.joaomgcd.autoappshub) - (Paid | Free)
@@ -97,6 +101,18 @@ Also share text from Tasker to any other app that supports text sharing.
 - [BlueTask](https://play.google.com/store/apps/details?id=com.balda.bluetask) - Allows audio routing using bluetooth headset.
 - [GeoTask](https://play.google.com/store/apps/details?id=com.balda.geotask) - Create geographic areas to be monitored.
 - [Auto Speed Trap](https://play.google.com/store/apps/details?id=com.balda.autospeedtrap) - Automate the start and stop of [Speed Trap](https://play.google.com/store/apps/details?id=com.balda.speedtrappro&hl=en_CA).
+
+## Books
+- [Developing Android on Android](https://learning.oreilly.com/library/view/developing-android-on/9781941222386/f_0042.html)
+
+## Videos
+- [NotEnoughTECH](https://www.youtube.com/user/Polepositionpage) channel
+- [Tasker Tutorials](https://www.youtube.com/user/taskertutorials) channel
+
+## Blogs
+- [NotEnoughTECH](https://notenoughtech.com/) - Includes multiple posts about Tasker
+- [What is Tasker and how does it work?](https://www.androidcentral.com/tasker)
+- [A beginner's guide to Tasker: How to automate (almost) anything on your phone](https://www.androidpolice.com/2020/06/14/a-beginners-guide-to-tasker-how-to-automate-almost-anything-on-your-phone/)
 
 ## Community
 - [Reddit](https://www.reddit.com/r/tasker/)
