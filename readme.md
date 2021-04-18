@@ -6,7 +6,7 @@
 
 <br>
 
-# Awesome Tasker [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 
 > Carefully curated list of awesome Tasker projects, tutorials and tricks
@@ -37,6 +37,7 @@ Tasker came 3rd in the Productivity category in the Android Developer Challenge 
 - [Plugins](#plugins)
 - [Books](#books)
 - [Videos](#videos)
+- [Assets](#assets)
 - [Blogs](#blogs)
 - [Community](#community)
 
@@ -55,6 +56,7 @@ Tasker came 3rd in the Productivity category in the Android Developer Challenge 
 
 ## Plugins
 ### [Official Plugins](https://play.google.com/store/apps/details?id=com.joaomgcd.autoappshub) - (Paid | Free)
+- [AutoApps](https://play.google.com/store/apps/details?id=com.joaomgcd.autoappshub) - Allows you to unlock (as individual purchases) all the Tasker plugins by the same developer, known as the AutoApps.
 - [AutoVoice](https://play.google.com/store/apps/details?id=com.joaomgcd.autovoice) (and the [pro key](https://play.google.com/store/apps/details?id=com.joaomgcd.autovoice.unlock)) - Custom voice commands for Google Now™.
 - [Tasker Settings](https://play.google.com/store/apps/details?id=com.joaomgcd.taskersettings) - Helper app for Tasker; It allows to change some settings that Tasker can't change by itself.
 - [AutoInput](https://play.google.com/store/apps/details?id=com.joaomgcd.autoinput) - Enables to interact with any Android™ app automatically. It also allows you to get info from other apps so you can use it in Tasker.
@@ -80,6 +82,15 @@ Also share text from Tasker to any other app that supports text sharing.
 - [AutoLocation](https://play.google.com/store/apps/details?id=com.joaomgcd.autolocation) (And the [pro key](https://play.google.com/store/apps/details?id=com.joaomgcd.autolocation.unlock)) - React to geofences and activities in Tasker.
 - [AutoBarcode](https://play.google.com/store/apps/details?id=com.joaomgcd.barcode) - Allows you to completely automate your phone with QR Codes.
 - [AutoBarcodeLite](https://play.google.com/store/apps/details?id=com.joaomgcd.barcode.lite) - Allows you to completely automate your phone with QR Codes but limited to 3 character scans.
+- [AutoBluetooth](https://play.google.com/store/apps/details?id=com.joaomgcd.autobluetooth) - Makes Tasker interact with bluetooth.
+- [AutoBubbles](https://play.google.com/store/apps/details?id=com.joaomgcd.autobubbles) - Enables Tasker to create movable/draggle icons that float above everything else on the screen display.
+- [AutoCalendar](https://play.google.com/store/apps/details?id=com.joaomgcd.autocalendar) - Allows Tasker to interact with calendar.
+- [AutoMail](https://play.google.com/store/apps/details?id=com.joaomgcd.autogmail) - Automate emails other than Gmail.
+- [AutoMediaButtons](https://play.google.com/store/apps/details?id=com.joaomgcd.automediabuttons) - Enables Tasker to interact with media buttons.
+- [AutoMEO](https://play.google.com/store/apps/details?id=com.joaomgcd.automeo) - Enables Tasker to control a [MeoBox](https://www.meo.pt/en).
+- [AutoPhoto](https://play.google.com/store/apps/details?id=com.joaomgcd.autophoto) - Enables Tasker to interact with pictures.
+- [AutoRSS](https://play.google.com/store/apps/details?id=com.joaomgcd.autorss) - Enables Tasker to interact with [RSS](https://en.wikipedia.org/wiki/RSS).
+- [AutoSheets](https://play.google.com/store/apps/details?id=com.joaomgcd.autosheets) - Tasker plugin that allows to automate just about anything in [Google Sheets](http://sheets.google.com)
 ### Marco Stornelli
 - [SecureTask](https://play.google.com/store/apps/details?id=com.balda.securetask) - Makes Tasker interact with [Secure Settings](https://play.google.com/store/apps/details?id=com.intangibleobject.securesettings.plugin&hl=en_CA).
 - [MailTask](https://play.google.com/store/apps/details?id=com.balda.mailtask) - Enables Tasker to interact with emails.
@@ -93,7 +104,7 @@ Also share text from Tasker to any other app that supports text sharing.
 - [CastTask](https://play.google.com/store/apps/details?id=com.balda.casttask) - Allows you to cast multimedia content using Tasker.
 - [ParseTask](https://play.google.com/store/apps/details?id=com.balda.parsetask) - Read data in JSON, XML and HTML.
 - [NFC for Tasker](https://play.google.com/store/apps/details?id=com.balda.nfcfortasker) - Read and write on NFC tags using Tasker.
-- [Notfication Listener](https://play.google.com/store/apps/details?id=com.balda.notificationlistener)- Read notification of other apps.
+- [Notification Listener](https://play.google.com/store/apps/details?id=com.balda.notificationlistener)- Read notification of other apps.
 - [IntentTask](https://play.google.com/store/apps/details?id=com.balda.intenttask) - Allows Tasker to send Android™ intents.
 - [MeteoTask](https://play.google.com/store/apps/details?id=com.balda.meteotask) - Get weather information on Tasker.
 - [ActivityTask](https://play.google.com/store/apps/details?id=com.balda.autoactivity) - Detect when you are in a vehicle, on foot, on bike, still or if the phone is tilting.
@@ -101,6 +112,18 @@ Also share text from Tasker to any other app that supports text sharing.
 - [BlueTask](https://play.google.com/store/apps/details?id=com.balda.bluetask) - Allows audio routing using bluetooth headset.
 - [GeoTask](https://play.google.com/store/apps/details?id=com.balda.geotask) - Create geographic areas to be monitored.
 - [Auto Speed Trap](https://play.google.com/store/apps/details?id=com.balda.autospeedtrap) - Automate the start and stop of [Speed Trap](https://play.google.com/store/apps/details?id=com.balda.speedtrappro&hl=en_CA).
+- [Tasker Now](https://play.google.com/store/apps/details?id=com.balda.taskernow) - Use Google Assistant as input for Tasker from your phone or smartwatch.
+### Others Vendors
+- [Tasker Network Event Server](https://play.google.com/store/apps/details?id=bidoismorgan.httpevent) - Enables Tasker to trigger events when receiving messages over network.
+- [HTTP Request Shortcuts](https://play.google.com/store/apps/details?id=ch.rmy.android.http_shortcuts) - Enables Tasker to place shortcuts/widgets on homescreen to submit HTTP requests.
+- [Notifications Off](https://play.google.com/store/apps/details?id=com.aboutmycode.NotificationsOff) - Enables Tasker to manage app notifications in a centralized way.
+- [ADB Shell](https://play.google.com/store/apps/details?id=com.ADBPlugin) - Enables Tasker to send a (series of) [ADB](https://developer.android.com/studio/command-line/adb) Shell command(s) to a remote device (or the device itself) that has ADB over WiFi enabled.
+- [SharpTools Tasker Plugin & Widgets for SmartThings](https://play.google.com/store/apps/details?id=com.boshdirect.stwidgets) - [SharpTools](https://sharptools.io/) is a set of Widgets and Tasker plugins for the SmartThings™ platform.
+- [Jewish Tasker Plugin](https://play.google.com/store/apps/details?id=com.chaimchaikin.jewishdatetasker) - Tasker plugin to get the Jewish/Hebrew Date and Zmanim.
+- [RepetiTouch Pro](https://play.google.com/store/apps/details?id=com.cygery.repetitouch.pro) - RepetiTouch enables easy recording and replaying of touch events.
+
+## Assets
+- [AutoTools Presets](https://joaoapps.com/autotools/web-screen-presets/) - List of web screen presets that can be imported into AutoTools.
 
 ## Books
 - [Developing Android on Android](https://learning.oreilly.com/library/view/developing-android-on/9781941222386/f_0042.html)
