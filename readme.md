@@ -124,6 +124,7 @@ Also share text from Tasker to any other app that supports text sharing.
 
 ## Assets
 - [AutoTools Presets](https://joaoapps.com/autotools/web-screen-presets/) - List of web screen presets that can be imported into AutoTools.
+- [Taskernet Collector](https://pghant.github.io/taskernet-collector/search?q=share) - Search Taskernet shares that were publicly posted on Reddit.
 
 ## Books
 - [Developing Android on Android](https://learning.oreilly.com/library/view/developing-android-on/9781941222386/f_0042.html)
