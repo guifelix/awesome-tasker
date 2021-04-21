@@ -52,7 +52,8 @@ Tasker came 3rd in the Productivity category in the Android Developer Challenge 
 - [FAQ](https://tasker.joaoapps.com/faq.html) - Official FAQ.
 - [App](https://tasker.joaoapps.com/download.html) - From website.
 - [App](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) - From Google Play™ store.
-- [Videos](https://www.youtube.com/user/joaomgcd) - Videos from Joao 
+- [Videos](https://www.youtube.com/user/joaomgcd) - Videos from Joao.
+- [Documentation](https://github.com/joaomgcd/TaskerDocumentation) - Crowdsourced documentation for Tasker.
 
 ## Plugins
 ### [Official Plugins](https://play.google.com/store/apps/details?id=com.joaomgcd.autoappshub) - (Paid | Free)
@@ -91,6 +92,7 @@ Also share text from Tasker to any other app that supports text sharing.
 - [AutoPhoto](https://play.google.com/store/apps/details?id=com.joaomgcd.autophoto) - Enables Tasker to interact with pictures.
 - [AutoRSS](https://play.google.com/store/apps/details?id=com.joaomgcd.autorss) - Enables Tasker to interact with [RSS](https://en.wikipedia.org/wiki/RSS).
 - [AutoSheets](https://play.google.com/store/apps/details?id=com.joaomgcd.autosheets) - Tasker plugin that allows to automate just about anything in [Google Sheets](http://sheets.google.com)
+- [TaskerSettings](https://github.com/joaomgcd/TaskerSettings) - Enables Tasker to toggle WI-FI.
 ### Marco Stornelli
 - [SecureTask](https://play.google.com/store/apps/details?id=com.balda.securetask) - Makes Tasker interact with [Secure Settings](https://play.google.com/store/apps/details?id=com.intangibleobject.securesettings.plugin&hl=en_CA).
 - [MailTask](https://play.google.com/store/apps/details?id=com.balda.mailtask) - Enables Tasker to interact with emails.
