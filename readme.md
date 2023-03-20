@@ -27,7 +27,7 @@ Tasker came 3rd in the Productivity category in the Android Developer Challenge 
 
 <p align="center">
 	<sub>
-        Check out my <a href="https://guilhermefelixmaciel.netlify.com/">site</a> and follow me on <a href="https://www.linkedin.com/in/guilhermemaciel/">LinkedIn</a>.</sub>
+        Follow me on <a href="https://www.linkedin.com/in/guilhermemaciel/">LinkedIn</a>.</sub>
 </p>
 <br>
 
