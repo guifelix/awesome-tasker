@@ -124,6 +124,11 @@ Also share text from Tasker to any other app that supports text sharing.
 - [Jewish Tasker Plugin](https://play.google.com/store/apps/details?id=com.chaimchaikin.jewishdatetasker) - Tasker plugin to get the Jewish/Hebrew Date and Zmanim.
 - [RepetiTouch Pro](https://play.google.com/store/apps/details?id=com.cygery.repetitouch.pro) - RepetiTouch enables easy recording and replaying of touch events.
 
+### Integrations/Utilities
+- [Termux Tasker](https://github.com/termux/termux-tasker) - Run termux commands from tasker
+- [Tasker Permissions](https://github.com/joaomgcd/Tasker-Permissions) - Utility to easily grant Tasker permissions
+- [Tasker Settings](https://github.com/joaomgcd/TaskerSettings) - Helper app for Tasker
+
 ## Assets
 - [AutoTools Presets](https://joaoapps.com/autotools/web-screen-presets/) - List of web screen presets that can be imported into AutoTools.
 - [Taskernet Collector](https://pghant.github.io/taskernet-collector/search?q=share) - Search Taskernet shares that were publicly posted on Reddit.
